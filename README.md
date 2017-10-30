@@ -1,2 +1,2 @@
 # roborust
-Command-based framework for the RoboRio
+FRC Framework for the RoboRio written in Rust
